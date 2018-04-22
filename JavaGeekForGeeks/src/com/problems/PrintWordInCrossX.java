@@ -26,4 +26,10 @@ public class PrintWordInCrossX {
 			System.out.println();
 		}
 	}
+
+	public static void main(String[] args) {
+		new PrintWordInCrossX().printX();
+
+	}
+
 }
